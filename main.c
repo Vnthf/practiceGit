@@ -7,7 +7,11 @@ int multi(int, int);
  
 int main(int argc, char* argv[])
 {
+<<<<<<< HEAD
 	int welfahaw;eofhaw;eoifhaw;oiehfio;aw;
+=======
+	int z, y, h;
+>>>>>>> 12eae04... 내가 먼저
 	char operator;
 	
 	printf("Please enter a expression");
