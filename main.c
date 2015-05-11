@@ -21,7 +21,7 @@ int main(int argc, char* argv[])
 		case '*':
 			c = multi(a, b);
 			break;
-		case '/':
+		case '%':
 			c = div(a, b);
 			break;
 	}
