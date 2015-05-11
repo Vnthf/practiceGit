@@ -3,7 +3,7 @@
 int add(int, int);
 int sub(int, int);
 int div(int, int);
-int multi(int, int);
+awnef;leawnf;lawenf;awnf;lawknv;laen vklwaenfv'awenfkwejint multi(int, int);
  
 int main(int argc, char* argv[])
 {
